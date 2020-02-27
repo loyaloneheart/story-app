@@ -1,4 +1,8 @@
-import React from "react";
+import React from 'react'
 
-const Home = () => <div>ini home</div>;
-export default Home;
+const Home = () => (
+    <div>
+        ini home
+    </div>
+)
+export default Home
